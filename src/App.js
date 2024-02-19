@@ -28,7 +28,7 @@ const App = () => (
   <div className="App">
     <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
-      <h1><Greetings firstName="Alex" lastName="Tet" /> It's React frontend.</h1>
+      <h1><Greetings firstName="Alex" lastName="Tet" /> It's React frontend...</h1>
       <SimpleForm/>
       <a
         className="App-link"
